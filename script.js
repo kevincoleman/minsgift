@@ -4,9 +4,9 @@ function load() {
   if (opened) {
     document.getElementById('giftDisplay').innerHTML = `
       <div id="giftDisplay">
-        <h1>Merry Christmas Cam!</h1>
-        <a href="https://www.amazon.com/kindle/redeem/?t=GSFBPGJS6RCCSQM" target="_blank"><img src="gift.jpg" alt="Your gift!"></a>
-        <p>I really enjoyed this book and I thought you probably would too.</p>
+        <h1>Merry Christmas Love!</h1>
+        <img src="gift.jpg" alt="Your gift!">
+        <p>I saw the kitten towel on your wishlist, and went rogue to get more Ayumi Horie into our kitchen. ;)</p>
       </div>
     `
   } else {
